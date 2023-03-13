@@ -1,0 +1,8 @@
+installed react-app 
+installed google maps api with @react-google-maps/api
+created component folder
+created mapcontainer.js
+imported {GoogleMap, LoadScript, Marker} from "@react-google-maps/api"
+GoogleMap renders react components to the map
+LoadScript loads google map to the page
+marker identifies a locatio on the map
